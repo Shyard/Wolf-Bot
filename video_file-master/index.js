@@ -39,5 +39,5 @@ bot.on('message', msg => {
     }
 
 });
-bot.login(token); //a garder en version desktop
-bot.login(token); //a garder en version heroku
+bot.login(ZhpAppTh7APjLDXHuWFvDfueoAy5RjZB); //a garder en version desktop
+bot.login(ZhpAppTh7APjLDXHuWFvDfueoAy5RjZB); //a garder en version heroku
